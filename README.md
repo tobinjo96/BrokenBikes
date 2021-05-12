@@ -9,4 +9,4 @@ Items currently in the repository:
 - **RF.R** This script implements V1 of the broken bike detection method. Using a 24hr period of bike data, a Random Forest regression model is trained to predict the time since the last trip based on environmental, weather and bike-specific features. This model is stored and used to produce a 'predicted stationary time' score for each bike, based on its last trip and location in the city. Bikes that have been stationary for significantly longer than was predicted by the model are flagged as potentially broken. A sample image of the scores is given below. 
 - **Animate.R** This script can be used to create gifs of bikes moving around the city using the live-updating JSON files. 
 
-<img src="bikes_129-153.gif", width = "40"><img src="bike_125_map.png", width = "40">
+<img src="bikes_129-153.gif" width = "400" /> <img src="bike_125_map.png" width = "400" />
