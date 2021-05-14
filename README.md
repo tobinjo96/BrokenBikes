@@ -3,7 +3,7 @@ Bleeper Bikes has revolutionised active travel in Dublin. With over 600 GPS trac
 
 The success of Bleeper’s system is evident in user testimonials available on the App Store and Google Play Store. An analysis of public reviews on both stores, represented in the word cloud below highlights the flexibility, convenience and freedom afforded by the Bleeper system. 
 
-<img src="WordCloud.png" alt="WordCloud" class="center">
+<p align="center"><img src="WordCloud.png" alt="WordCloud" width="400"/></p>
 
 The analysis also reveals issues in the bike-sharing system. Many reviews describe the app directing them to broken, faulty bikes. Issues with bike quality was the primary reason for poor reviews given by users in both stores. Improving bike reliability would greatly enhance the Bleeper’s UX, further encouraging Dubliner’s to substitute more journeys into cycling. 
 
